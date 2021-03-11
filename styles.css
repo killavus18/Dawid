@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #000000;
+    background-color: #fff;
+  }
+
+
+  .mycontainer {
+     background-image: url('/img/bg.jpg');
+     background-position: center;
+     background-size: cover;
+     background-attachment:fixed;
+     height: 600px;
+     margin: 0;
+     
+  }
+  #mainmenu a{
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+  }
+  #mainmenu .dropdown-item{
+    color: black;
+    }
+    
+h1 {
+  color: white;
+  text-transform: uppercase;
+  font-size: 50px;
+  font-weight: bold ;
+}
+
+h2 {
+color: white;
+}
+
+h3 {
+  color: rgb(179, 57, 57);
+  text-transform: uppercase;
+  font-size: 60px;
+  font-weight: bold ;
+  text-align: center;
+}
+h5 {
+  color: rgb(179, 57, 57);
+  text-transform: uppercase;
+  font-size: 25px;
+  text-align: center;
+  
+}
+
+.btn1 {
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border: 5px solid rgb(179, 57, 57);
+  border-radius: 0%;
+  padding: 15px;
+  width: 200px;
+}
+.row {
+  padding-top: 2rem;
+}
+
+.item1 {
+  background-color: white;
+  text-align: center;
+  color: rgb(179, 57, 57);
+  padding: 15px;
+}
+
+.blok {
+  background-color:  rgb(179, 57, 57);
+  color: white;
+  font-weight: bold;
+  height: 120px;
+  display: block;
+}
+
+.badge {
+  background-color: tomato;
+  color: white;
+
+}
+
+.featurette {
+  color: #2e2e2e;
+}
+
+.header {
+ padding-top: 5rem;
+}
+
+svg {
+  color:  rgb(179, 57, 57);
+}
+
+.box {
+  width: 200px;
+  height: 300px;
+  background-color: white;
+}
